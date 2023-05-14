@@ -7,7 +7,7 @@ const nextConfig = {
       {
         source: "/",
         destination: "/home",
-        statusCode: 301,
+        statusCode: 301
       }
     ]
   }
